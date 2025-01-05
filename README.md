@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Enthos AI**
 
+- 🌱 I’m currently learning **NLP**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

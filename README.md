@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **Python , AI and Machine learning**
+
+- 📫 How to reach me **pawarsourabh045@gmail.com0**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

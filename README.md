@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on **Enthos AI**
 
 - 🌱 I’m currently learning **NLP**
+
+- 💬 Ask me about **Python , AI and Machine learning**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

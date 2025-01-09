@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Enthos AI**
 
-- 🌱 I’m currently learning **NLP &Tensorflow**
+- 🌱 I’m currently learning **NLP Tensorflow**
 
 - 💬 Ask me about **AI and Machine learning**
 

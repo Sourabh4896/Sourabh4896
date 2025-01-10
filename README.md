@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **NLP**
 
+- 👯 I’m looking to collaborate on **Enthos AI**
+
 - 💬 Ask me about **Python, AI and Machine learning**
 
 - 🤝 I’m looking for help with **TsukiKanvas**

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **KamiKreator**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Enthos AI**
 

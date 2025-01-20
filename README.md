@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Sourabh Pawa</h1>
+<h1 align="center">Hello 👋, I'm Sourabh Pawar</h1>
 <h3 align="center">A passionate developer from India who is crafting innovative solutions across AI, Machine learning, analytics and secure systems</h3>
 
 - 🔭 I’m currently working on **KamiKreator**

@@ -1,17 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sourabh Pawar</h1>
 <h3 align="center">A passionate developer from India who is crafting innovative solutions across AI, Machine learning, analytics and secure systems</h3>
 
-- 🔭 I’m currently working on **KamiKreator**
 
-- 🌱 I’m currently learning **AI**
-
-- 👯 I’m looking to collaborate on **Enthos AI**
-
-- 💬 Ask me about **Python, AI and Machine learning**
-
-- 🤝 I’m looking for help with **TsukiKanvas**
-
-- 📫 How to reach me **pawarsourabh045@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

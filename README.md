@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, AI and Machine learning**
 
-- 🤝 I’m looking for help with **TsukiKanvas**
+- 🤝 I’m looking for help with **Tsuki-Kanvas**
 
 - 📫 How to reach me **pawarsourabh045@gmail.com**
 

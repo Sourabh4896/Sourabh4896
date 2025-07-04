@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Auto Image Classifier**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 👯 I’m looking to collaborate on **Enthos AI**
 

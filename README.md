@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Sourabh Pawar</h1>
 <h3 align="center">A passionate developer from India who is crafting innovative solutions across AI, Machine learning, analytics and secure systems</h3>
 
-- 🔭 I’m currently working on **Kami-Kreator**
+- 🔭 I’m currently working on **Auto Image Classifier**
 
 - 🌱 I’m currently learning **AI**
 

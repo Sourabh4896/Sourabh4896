@@ -66,7 +66,7 @@ const developer = {
 
 ## Tech Stack & Tools
 
-### 💬 Languages
+### Languages
 
 <div align="center">
 
@@ -76,7 +76,7 @@ const developer = {
 
 <br/>
 
-### ⚛️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <div align="center">
 
@@ -86,7 +86,7 @@ const developer = {
 
 <br/>
 
-### 🗄️ Databases
+### Databases
 
 <div align="center">
 
@@ -96,7 +96,7 @@ const developer = {
 
 <br/>
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 
 <div align="center">
 

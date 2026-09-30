@@ -52,7 +52,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://sourabhpawar.me">
+<!-- <a href="https://sourabhpawar.me"> -->
   <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 &nbsp;
